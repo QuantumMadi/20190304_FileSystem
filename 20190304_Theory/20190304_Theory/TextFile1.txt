@@ -1,0 +1,8 @@
+﻿Garbage collector - rubbish, cleaning stack.
+
+stack -> controlled bunch -> not controlling bunch(database, file system, network)
+
+stack consist from pointers
+
+controlled bunch consist from information which linked to stack pointers.
+
