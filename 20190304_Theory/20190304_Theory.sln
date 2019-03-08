@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20190304_Theory", "20190304
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice", "Practice\Practice.csproj", "{0824A42B-BD49-4E52-AF67-61EF89336823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibbonachi", "Fibbonachi\Fibbonachi.csproj", "{9377EE83-FB19-435D-B871-42F105344AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOFTwoNumbers", "SumOFTwoNumbers\SumOFTwoNumbers.csproj", "{21DF8835-BC50-4112-A811-3E8653387FCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0824A42B-BD49-4E52-AF67-61EF89336823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0824A42B-BD49-4E52-AF67-61EF89336823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0824A42B-BD49-4E52-AF67-61EF89336823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9377EE83-FB19-435D-B871-42F105344AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9377EE83-FB19-435D-B871-42F105344AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9377EE83-FB19-435D-B871-42F105344AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9377EE83-FB19-435D-B871-42F105344AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DF8835-BC50-4112-A811-3E8653387FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DF8835-BC50-4112-A811-3E8653387FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DF8835-BC50-4112-A811-3E8653387FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DF8835-BC50-4112-A811-3E8653387FCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
